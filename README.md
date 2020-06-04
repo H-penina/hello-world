@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi~everybody
+This is a test.
+大家好~
